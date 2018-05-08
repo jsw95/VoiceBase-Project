@@ -1,2 +1,3 @@
 # VoiceBase-Project
-Code, report, and presentation for a information extraction task
+Code and report for a information extraction task
+
